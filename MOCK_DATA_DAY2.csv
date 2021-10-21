@@ -1,5 +1,5 @@
 roll,name,Compilation,Execution,Output,Correctness,Compilation Time
-1,Gare,true,false,true,true,34.55742
+1,Day2,true,false,true,true,34.55742
 2,Roxine,true,false,true,false,92.60644
 3,Austina,false,true,false,false,82.39186
 4,Artus,false,true,false,false,24.62692
