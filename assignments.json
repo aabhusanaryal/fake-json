@@ -11,5 +11,18 @@
   "title": "Second Assignment",
   "description": "Ipsum Ipsum Lorem",
   "specs": ["Never", "Gonna", "Let", "You", "Down"],
+  "code": "This is an example code snippet" },
+  { 
+  "id": 3, 
+  "title": "Third Assignment",
+  "description": "Lorem Ipsum Lorem",
+  "specs": ["Never", "Gonna", "Give", "You", "Up"],
+  "code": "This is an example code snippet"
+  },
+  {
+  "id": 4,
+  "title": "Fourth Assignment",
+  "description": "Ipsum Ipsum Lorem",
+  "specs": ["Never", "Gonna", "Let", "You", "Down"],
   "code": "This is an example code snippet" }
 ]
