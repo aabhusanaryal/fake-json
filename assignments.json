@@ -1,0 +1,15 @@
+[
+  { 
+  "id": 1, 
+  "title": "First Assignment",
+  "description": "Lorem Ipsum Lorem",
+  "specs": ["Never", "Gonna", "Give", "You", "Up"],
+  "code": "This is an example code snippet"
+  }
+  {
+  "id": 2,
+  "title": "Second Assignment",
+  "description": "Ipsum Ipsum Lorem",
+  "specs": ["Never", "Gonna", "Let", "You", "Down"],
+  "code": "This is an example code snippet" }
+]
