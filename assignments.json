@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "First Assignment",
-    "description": "**Lorem** `Ipsum` *Lorem*",
+    "description": "Lorem Ipsum Lorem",
     "specs": [
       "Never",
       "Gonna",
@@ -10,8 +10,7 @@
       "You",
       "Up"
     ],
-    "code": "This is an example code snippet",
-    "timestamp": "Nov 4th, 2021",
+    "code": "for(int i=0; i<10; i++){\ncustomPrint(\"Hello\");\n}",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
@@ -26,7 +25,6 @@
       "Down"
     ],
     "code": "This is an example code snippet",
-    "timestamp": "Nov 4th, 2021",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
@@ -41,7 +39,6 @@
       "Up"
     ],
     "code": "This is an example code snippet",
-    "timestamp": "Nov 4th, 2021",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
@@ -56,7 +53,6 @@
       "Down"
     ],
     "code": "This is an example code snippet",
-    "timestamp": "Nov 4th, 2021",
     "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   }
 ]
