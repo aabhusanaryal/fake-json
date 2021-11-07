@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "First Assignment",
-    "description": "Lorem Ipsum Lorem",
+    "description": "**Lorem** *Ipsum* _Lorem_",
     "timestamp": "4th Nov, 2020",
     "specs": [
       "Never",
