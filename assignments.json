@@ -3,6 +3,7 @@
     "id": 1,
     "title": "First Assignment",
     "description": "Lorem Ipsum Lorem",
+    "timestamp": "4th Nov, 2020",
     "specs": [
       "Never",
       "Gonna",
@@ -17,6 +18,7 @@
     "id": 2,
     "title": "Second Assignment",
     "description": "Ipsum Ipsum Lorem",
+    "timestamp": "4th Nov, 2020",
     "specs": [
       "Never",
       "Gonna",
@@ -31,6 +33,7 @@
     "id": 3,
     "title": "Third Assignment",
     "description": "Lorem Ipsum Lorem",
+    "timestamp": "4th Nov, 2020",
     "specs": [
       "Never",
       "Gonna",
@@ -45,6 +48,7 @@
     "id": 4,
     "title": "Fourth Assignment",
     "description": "Ipsum Ipsum Lorem",
+    "timestamp": "4th Nov, 2020",
     "specs": [
       "Never",
       "Gonna",
