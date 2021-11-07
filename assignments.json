@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "First Assignment",
-    "description": "**Lorem** *Ipsum* __Lorem__ ~~Make a markdown renderer~~",
+    "description": "**Lorem** *Ipsum* __Lorem__ ~~Make a markdown renderer~~ `Inline Code Block`",
     "timestamp": "4th Nov, 2020",
     "specs": [
       "Never",
